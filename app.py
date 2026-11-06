@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # À remplacer par l'adresse GitHub Pages de ton dépôt après activation de Pages.
-GAME_URL = "https://VOTRE-PSEUDO.github.io/VOTRE-DEPOT/"
+GAME_URL = "https://jeremyguichard95-tech.github.io/App/"
 
 st.markdown(
     """
